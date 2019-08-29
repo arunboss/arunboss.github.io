@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on DeepView Documentation</title>
+    <link>https://arunboss.github.io/getting-started/</link>
+    <description>Recent content in Getting Started on DeepView Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://arunboss.github.io/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation</title>
+      <link>https://arunboss.github.io/getting-started/installation/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/getting-started/installation/</guid>
+      <description>Installation Requirements  Python 3.3+ or Python 2.7 macOS or Linux (Windows not officially supported, but might work)  Installing on Mac or Linux First, make sure you have dlib already installed with Python bindings:
+ How to install dlib from source on macOS or Ubuntu  Then, install this module from pypi using pip3 (or pip2 for Python 2):
+pip3 install face_recognition If you are having trouble with installation, you can also try out a pre-configured VM.</description>
+    </item>
+    
+    <item>
+      <title>Usage</title>
+      <link>https://arunboss.github.io/getting-started/configuration/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/getting-started/configuration/</guid>
+      <description>Once you install the source code as shared in Installation page, you get a simple command line interface to run your face recognition use case.
+The basic construct of the Input folder is as follows:  Unknown Photos &amp;ndash; To keep the batch of photos which are unclassified Known Photos &amp;ndash; To keep the batch of known photos. The classification of each photo is kept in a dfInputRaw.csv in root folder  The algorithm stacks up the Unknown Photos into what is called Encodes.</description>
+    </item>
+    
+  </channel>
+</rss>

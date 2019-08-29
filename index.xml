@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DeepView Documentation</title>
+    <link>https://arunboss.github.io/</link>
+    <description>Recent content on DeepView Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://arunboss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation</title>
+      <link>https://arunboss.github.io/getting-started/installation/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/getting-started/installation/</guid>
+      <description>Installation Requirements  Python 3.3+ or Python 2.7 macOS or Linux (Windows not officially supported, but might work)  Installing on Mac or Linux First, make sure you have dlib already installed with Python bindings:
+ How to install dlib from source on macOS or Ubuntu  Then, install this module from pypi using pip3 (or pip2 for Python 2):
+pip3 install face_recognition If you are having trouble with installation, you can also try out a pre-configured VM.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://arunboss.github.io/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/hello_world/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://arunboss.github.io/posts/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/posts/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Usage</title>
+      <link>https://arunboss.github.io/getting-started/configuration/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/getting-started/configuration/</guid>
+      <description>Once you install the source code as shared in Installation page, you get a simple command line interface to run your face recognition use case.
+The basic construct of the Input folder is as follows:  Unknown Photos &amp;ndash; To keep the batch of photos which are unclassified Known Photos &amp;ndash; To keep the batch of known photos. The classification of each photo is kept in a dfInputRaw.csv in root folder  The algorithm stacks up the Unknown Photos into what is called Encodes.</description>
+    </item>
+    
+    <item>
+      <title>Event Management</title>
+      <link>https://arunboss.github.io/usecase/1/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/usecase/1/</guid>
+      <description>91springboard Our engagement with 91springboard literally incubated the entire idea! Is it possible to leverage the ecosystem of startups that are active in their ecosystem, get them to engage with the 91springboard brand in an easy fashion, and leverage the unlimited potential of Indian startup ecosystem? We think YES and that is where we started our incubation story!! 12 months down the line, in the Image Analytics space, we spawned DeepView to enable 91springboard to get more deeply embedded in the startup ecosystem&amp;rsquo;s social media profile.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://arunboss.github.io/usecase/2/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/usecase/2/</guid>
+      <description>happyframes TBD</description>
+    </item>
+    
+    <item>
+      <title>About DeepView</title>
+      <link>https://arunboss.github.io/about/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/about/</guid>
+      <description>FotoBot came into being as a small project for a friend. It slowly became a suite of products spawning into what is today DeepView Analytics. Our vision is help businesses run a state-of-the-art analytics stack with minimum oversight. What you see is what you get, period!
+It has been a habit of old to rely solely on community driven, open source packages under pypi, MIT licenses, BSD licenses etc. Once the core idea was implemented successfully, we sensed an opportunity to fill up a vacant space in the market currently run by ad-hoc solutions, since Big Tech are out of reach for common folks!</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://arunboss.github.io/archives/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/archives/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://arunboss.github.io/blog/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/blog/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world2</title>
+      <link>https://arunboss.github.io/entry/hello_world2/</link>
+      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/entry/hello_world2/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://arunboss.github.io/archives/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/archives/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://arunboss.github.io/blog/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/blog/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world1</title>
+      <link>https://arunboss.github.io/entry/hello_world1/</link>
+      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/entry/hello_world1/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://arunboss.github.io/archives/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/archives/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://arunboss.github.io/blog/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/blog/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://arunboss.github.io/entry/hello_world/</link>
+      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/entry/hello_world/</guid>
+      <description>aaaaaa
+vvvv
+aaa</description>
+    </item>
+    
+  </channel>
+</rss>

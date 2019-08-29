@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use Case on DeepView Documentation</title>
+    <link>https://arunboss.github.io/usecase/</link>
+    <description>Recent content in Use Case on DeepView Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://arunboss.github.io/usecase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event Management</title>
+      <link>https://arunboss.github.io/usecase/1/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/usecase/1/</guid>
+      <description>91springboard Our engagement with 91springboard literally incubated the entire idea! Is it possible to leverage the ecosystem of startups that are active in their ecosystem, get them to engage with the 91springboard brand in an easy fashion, and leverage the unlimited potential of Indian startup ecosystem? We think YES and that is where we started our incubation story!! 12 months down the line, in the Image Analytics space, we spawned DeepView to enable 91springboard to get more deeply embedded in the startup ecosystem&amp;rsquo;s social media profile.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://arunboss.github.io/usecase/2/</link>
+      <pubDate>Thu, 08 Aug 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://arunboss.github.io/usecase/2/</guid>
+      <description>happyframes TBD</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://arunboss.github.io/getting-started/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/getting-started/installation/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/hello_world/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/posts/hello_world/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/chapter1/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/getting-started/configuration/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/usecase/1/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/usecase/2/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/usecase/</loc>
+    <lastmod>2019-08-08T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/</loc>
+    <lastmod>2019-08-10T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/about/</loc>
+    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/archives/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/blog/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/entry/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/archives/hello_world2/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/blog/hello_world2/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/entry/hello_world2/</loc>
+    <lastmod>2017-12-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/archives/hello_world1/</loc>
+    <lastmod>2017-11-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/blog/hello_world1/</loc>
+    <lastmod>2017-11-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/entry/hello_world1/</loc>
+    <lastmod>2017-11-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/archives/hello_world/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/blog/hello_world/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/entry/hello_world/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/posts/</loc>
+    <lastmod>2017-10-17T14:00:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://arunboss.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
